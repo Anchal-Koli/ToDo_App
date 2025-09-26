@@ -78,3 +78,4 @@ todo_project/
 ├── requirements.txt
 └── README.md
 
+Made with love and efforts by Anchal :) 
